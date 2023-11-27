@@ -1,0 +1,45 @@
+body.bb{
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background: url('https://wallpapercave.com/wp/wp9349630.jpg') ;
+    background-size: cover;
+    background-attachment: fixed
+  }
+.hi{
+    height: 80vh;
+}
+.Button{
+    justify-content: center;
+    align-items: center;
+}
+
+.site-footer {
+    background-color:black; /* Change this color to your desired background color */
+    color: #fff;
+    height:60px;
+    text-align: center;
+}
+
+.social-icons a {
+    font-size: 24px;
+    text-decoration: none;
+    color: #fff;
+    transition: color 0.3s ease-in-out;
+}
+
+.text-white:hover{
+    color:rgb(139, 0, 90);
+}
+
+.text-white1:hover{
+    color:rgb(0, 102, 255);
+}
+
+.text-white2:hover{
+    color:red;
+}
+
+.text-white3:hover{
+    color:green;
+}
